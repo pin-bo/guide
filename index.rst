@@ -11,6 +11,7 @@ Audioguida
   :caption: Indice dei contenuti
 
   This is a link to the RST Overview: :ref:'RST Overview'
+  Ecco un link al :doc:`istruzioni`!
   istruzioni.rst
   sezioni.rst
   formattazione.rst
