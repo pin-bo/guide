@@ -7,3 +7,8 @@ Immagini e tabelle
 
   immagini-e-tabelle/figura-con-didascalia.rst
   immagini-e-tabelle/tabelle.rst
+
+
+.. image:: index/image1.jpeg
+  :width: 400
+  :alt: Alternative text
